@@ -1,0 +1,47 @@
+{
+    "streaks": [
+        {
+
+            "name": "swimming",
+            "stopdate": "01/07/2021",
+            "icon": "./imagos/swimmer.png"
+        },
+        {
+            "name": "sleeping",
+            "stopdate": "02/12/2020",
+            "icon": "./imagos/slumber.png"
+        },
+        {
+            "name": "jogging",
+            "stopdate": "04/17/2022",
+            "icon": "./imagos/running.png"
+        },
+        {
+            "name": "eating",
+            "stopdate": "12/01/2019",
+            "icon": "./imagos/eating-disorder.png"
+        },
+        {
+            "name": "bathing",
+            "stopdate": "01/01/2023",
+            "icon": "./imagos/bath.png"
+        },
+        {
+            "name": "talking",
+            "stopdate": "10/31/2018",
+            "icon": "./imagos/talking.png"
+
+        },
+        {
+            "name": "drinking",
+            "stopdate": "04/28/2023",
+            "icon": "./imagos/liquor.png"
+        },
+        {
+            "name": "driving",
+            "stopdate": "07/15/2017",
+            "icon": "./imagos/driving.png"
+        }
+        
+    ]
+}
